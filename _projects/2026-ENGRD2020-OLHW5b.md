@@ -6,10 +6,7 @@ technologies: [Autodesk Fusion]
 image: /assets/images/radio-machine-cad.jpg
 ---
 
-
-# Additional 2 – Design Problem
-
-## Design Problem
+# Design Problem
 
 Imagine you have a macadamia nut that you want to crack open by hand using a simple lever nutcracker.
 
@@ -17,10 +14,7 @@ Imagine you have a macadamia nut that you want to crack open by hand using a sim
 
 ## (a) Mechanical Design and Analysis
 
-Draw a figure of the nutcracker with the nut when it’s about to crack.  
-Calculate the necessary dimensions of the nutcracker and come up with a design to make this task feasible.
-
-You may assume a very simple geometry for the nutcracker to make your calculations easier.
+Draw a figure of the nut cracker with the nut when it’s about to crack. Calculate the necessary dimensions of the nutcracker and come up with a design to make this task feasible. You can assume a very simple geometry for the nutcracker to make your calculations easier.
 
 ### (i) Required Inputs
 
@@ -42,16 +36,7 @@ The average load required to crack a macadamia nut can be found in the appendix 
 
 ## (b) Usability Discussion
 
-Discuss the usability of the nutcracker that you designed.
-
-Consider factors such as:
-
-- Ergonomics  
-- Required hand force  
-- Comfort  
-- Safety  
-- Mechanical advantage  
-- Ease of use  
+Discuss the usability of the nutcracker that you designed. 
 
 ---
 
@@ -69,6 +54,22 @@ Pick a linear actuator from the following website, taking into account:
 
 Website:  
 https://www.progressiveautomations.com/collections/linear-actuators
+
+
+# Constraints & Input Parameters
+- Average diameter of a macademia nut = 1 in (Source: Aloha Farms Hawaii)
+- Maximum grip strength of adult human female = 329 N (Source: The National Institute of Health NIH)
+- Average hardness of cracking a full size macademia nut = 222.18 kg (Source: Schrauf et. al. 2008) which is equivalent to 2178 N of force
+
+# Approach
+## Plan 
+- Construct free body diagram of generic handheld nutcracker
+- Contruct exploded free body diagrams for each part of overall mechanism 
+- Calculate relevant dimensions using input parameters and equillibrum equations derived from free body diagrams from previous two steps 
+
+
+
+
 
 Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
 
