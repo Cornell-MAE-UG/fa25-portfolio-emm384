@@ -6,7 +6,70 @@ technologies: [Autodesk Fusion]
 image: /assets/images/radio-machine-cad.jpg
 ---
 
-For a class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. 
+Problem Statement: Imagine you have a macademia nut that you want to crack open by hand using a simple lever nut cracker. 
+
+# Additional 2 – Design Problem
+
+## Design Problem
+
+Imagine you have a macadamia nut that you want to crack open by hand using a simple lever nutcracker.
+
+---
+
+## (a) Mechanical Design and Analysis
+
+Draw a figure of the nutcracker with the nut when it’s about to crack.  
+Calculate the necessary dimensions of the nutcracker and come up with a design to make this task feasible.
+
+You may assume a very simple geometry for the nutcracker to make your calculations easier.
+
+### (i) Required Inputs
+
+You will need to find typical values for the inputs, such as:
+
+- Average size of macadamia nuts  
+- Maximum human grip strength  
+
+### (ii) Required Cracking Load
+
+The average load required to crack a macadamia nut can be found in the appendix section of the following paper:
+
+> Schrauf et al.  
+> *Do capuchin monkeys use weight to select hammer tools?*  
+> Animal Cognition 11, 413–422 (2008)  
+> https://doi.org/10.1007/s10071-007-0131-2  
+
+---
+
+## (b) Usability Discussion
+
+Discuss the usability of the nutcracker that you designed.
+
+Consider factors such as:
+
+- Ergonomics  
+- Required hand force  
+- Comfort  
+- Safety  
+- Mechanical advantage  
+- Ease of use  
+
+---
+
+## (c) Linear Actuator Modification
+
+Now, instead of relying on grip strength to apply the input force, modify your design to use a linear actuator.
+
+### (i) Actuator Selection
+
+Pick a linear actuator from the following website, taking into account:
+
+- Force output  
+- Size  
+- Stroke length  
+
+Website:  
+https://www.progressiveautomations.com/collections/linear-actuators
 
 Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
 
