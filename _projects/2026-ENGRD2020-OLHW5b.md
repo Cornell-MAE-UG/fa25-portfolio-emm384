@@ -65,7 +65,16 @@ https://www.progressiveautomations.com/collections/linear-actuators
 
 The mechanical advantage is given by $MA = \frac{F_{out}}{F_{in}}$.
 
+$$
+MA = \frac{L_{effort}}{L_{load}}
+$$
 
+$$
+\begin{aligned}
+MA &= \frac{F_{out}}{F_{in}} \\
+F_{out} &= MA \cdot F_{in}
+\end{aligned}
+$$
 
 Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
 
