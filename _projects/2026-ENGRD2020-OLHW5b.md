@@ -63,7 +63,7 @@ https://www.progressiveautomations.com/collections/linear-actuators
 - Contruct exploded free body diagrams for each part of overall mechanism 
 - Calculate relevant dimensions using input parameters and equillibrum equations derived from free body diagrams from previous two steps 
 
-
+The mechanical advantage is given by $MA = \frac{F_{out}}{F_{in}}$.
 
 
 
