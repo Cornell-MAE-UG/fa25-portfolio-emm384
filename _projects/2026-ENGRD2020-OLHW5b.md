@@ -10,8 +10,6 @@ image: /assets/images/radio-machine-cad.jpg
 
 Imagine you have a macadamia nut that you want to crack open by hand using a simple lever nutcracker.
 
----
-
 ## (a) Mechanical Design and Analysis
 
 Draw a figure of the nut cracker with the nut when it’s about to crack. Calculate the necessary dimensions of the nutcracker and come up with a design to make this task feasible. You can assume a very simple geometry for the nutcracker to make your calculations easier.
@@ -32,13 +30,9 @@ The average load required to crack a macadamia nut can be found in the appendix 
 > Animal Cognition 11, 413–422 (2008)  
 > https://doi.org/10.1007/s10071-007-0131-2  
 
----
-
 ## (b) Usability Discussion
 
 Discuss the usability of the nutcracker that you designed. 
-
----
 
 ## (c) Linear Actuator Modification
 
@@ -60,6 +54,8 @@ https://www.progressiveautomations.com/collections/linear-actuators
 - Average diameter of a macademia nut = 1 in (Source: Aloha Farms Hawaii)
 - Maximum grip strength of adult human female = 329 N (Source: The National Institute of Health NIH)
 - Average hardness of cracking a full size macademia nut = 222.18 kg (Source: Schrauf et. al. 2008) which is equivalent to 2178 N of force
+
+---
 
 # Approach
 ## Plan 
