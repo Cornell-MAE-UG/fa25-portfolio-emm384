@@ -1,9 +1,9 @@
 ---
 layout: project
 title: ENGRD 2020 - OLHW5b
-description: Static Mechanical Analysis 
-technologies: [Autodesk Fusion]
-image: /assets/images/radio-machine-cad.jpg
+description: Static Mechanical Analysis - Macademia Nut Cracker 
+technologies: 
+image: /assets/images/OLHW5.png
 ---
 
 # Design Problem
@@ -49,6 +49,10 @@ Pick a linear actuator from the following website, taking into account:
 Website:  
 https://www.progressiveautomations.com/collections/linear-actuators
 
+* * This section was part of the original problem but will not be included in this published analysis 
+
+
+
 
 # Constraints & Input Parameters
 - Average diameter of a macademia nut = 1 in (Source: Aloha Farms Hawaii)
@@ -58,11 +62,11 @@ https://www.progressiveautomations.com/collections/linear-actuators
 ---
 
 # Approach
-## Plan 
 - Construct free body diagram of generic handheld nutcracker
 ![Whole mechanism FBD]({{ "/assets/images/OLHW5.png" | relative_url }}){:style="width: 400px"}
 
-- Contruct exploded free body diagrams for an individual part of the overall mechanism 
+- Contruct exploded free body diagrams for an individual part of the overall mechanism
+
 ![Exploded mechanism FBD]({{ "/assets/images/OLHW5-2.png" | relative_url }}){:style="width: 400px"}
 
 - Derive a relationbship for relevant dimensions $(L_1 & L_2)$ using input parameters and equillibrum equations derived from free body diagrams from previous two steps 
@@ -80,6 +84,21 @@ $$
 L_1 = 2.25(1 in) = 2.25 in \\ 
 L_2 = 6.62(2.25 in) = 14.9 in \\
 $$
+
+---
+# Discussion of Usability
+
+
+
+
+
+
+
+
+
+
+
+
 
 The mechanical advantage is given by $MA = \frac{F_{out}}{F_{in}}$.
 
