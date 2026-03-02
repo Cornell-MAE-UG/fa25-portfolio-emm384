@@ -61,13 +61,17 @@ https://www.progressiveautomations.com/collections/linear-actuators
 ## Plan 
 - Construct free body diagram of generic handheld nutcracker
 - Contruct exploded free body diagrams for each part of overall mechanism 
-- Calculate relevant dimensions using input parameters and equillibrum equations derived from free body diagrams from previous two steps 
+- Calculate relevant dimensions (L1 & L2) using input parameters and equillibrum equations derived from free body diagrams from previous two steps 
+- - $\sum M_A = 0 = F_N L_1 - F_g L_2$
+$$
+\sum M_A = 0 = F_N L_1 - F_g L_2
+$$
 
 The mechanical advantage is given by $MA = \frac{F_{out}}{F_{in}}$.
 
-$$'
+$$
 MA = \frac{L_{effort}}{L_{load}}
-'$$
+$$
 
 $$
 \begin{aligned}
