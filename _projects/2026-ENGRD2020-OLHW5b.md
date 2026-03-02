@@ -60,9 +60,11 @@ https://www.progressiveautomations.com/collections/linear-actuators
 # Approach
 ## Plan 
 - Construct free body diagram of generic handheld nutcracker
-![Whole mechanism FBD]({{ "/assets/images/OLHW5.png" | relative_url }})
+![Whole mechanism FBD]({{ "/assets/images/OLHW5.png" | relative_url }}){:style="width: 400px"}
 
-- Contruct exploded free body diagrams for each part of overall mechanism 
+- Contruct exploded free body diagrams for an individual part of the overall mechanism 
+![Exploded mechanism FBD]({{ "/assets/images/OLHW5-2.png" | relative_url }}){:style="width: 400px"}
+
 - Derive a relationbship for relevant dimensions $(L_1 & L_2)$ using input parameters and equillibrum equations derived from free body diagrams from previous two steps 
 
 $$
