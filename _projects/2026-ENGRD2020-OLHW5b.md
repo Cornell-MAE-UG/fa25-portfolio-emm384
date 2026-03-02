@@ -64,10 +64,10 @@ https://www.progressiveautomations.com/collections/linear-actuators
 - Calculate relevant dimensions (L1 & L2) using input parameters and equillibrum equations derived from free body diagrams from previous two steps 
 
 $$
-\sum M_A = 0 = F_N L_1 - F_g L_2
-F_N L_1 = F_g L_2
-F_N / F_g = L_2 / L_1 = 2178 N / 329 N = 6.62
-L_2 = 6.62 L_1
+\sum M_A = 0 = F_N L_1 - F_g L_2 \\
+F_N L_1 = F_g L_2 \\ 
+\frac{F_N}{F_g} = \frac{L_2}{L_1} = \frac{2178 N}{329 N} = 6.62 \\
+L_2 = 6.62 L_1 \\
 $$
 
 The mechanical advantage is given by $MA = \frac{F_{out}}{F_{in}}$.
