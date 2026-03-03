@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Emma Mukerji
+title: <Emma Mukerji>
 ---
 
 ## About Me
@@ -11,12 +11,14 @@ title: Emma Mukerji
  
 My name is {{ site.name }}, and I’m a Biological Engineering student at Cornell University (B.S. ’28) passionate about the intersection of biology, engineering, and real-world impact. I’m especially interested in using quantitative tools and synthetic biology to solve complex biomedical problems — with long-term goals of pursuing an MD/PhD and building solutions that directly serve patients and communities.
 
-## Technical Skills
+
+
+### Technical Skills
 Programming: Python, MATLAB, Java, JavaScript, R
 Engineering & Lab: Spectrophotometry, microscopy, serial dilutions, micropipetting, electronic load testing, software validation
 Tools: LabVIEW, USF Chimera, Microsoft Office, Google Suite
 
-## What I’m Working On
+### What I’m Working On
 
 - Research Intern — Miu Lab (Drexel University)
 Conducting real-time data collection and validation for naval state estimation systems. I developed a Python data-processing pipeline supporting an upcoming conference publication and broader research on efficient electronic resource prioritization.
