@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Emma Mukerji 
 description              : Emma Mukerji - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "https://emm384.github.io/fa25-portfolio-emm384/FA25-PORTFOLIO-EMM384"
 
 # Theme and Style
 theme: jekyll-theme-minimal
