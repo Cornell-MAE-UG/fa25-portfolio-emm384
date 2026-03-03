@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Emma Mukerji>
+title: Emma Mukerji
 ---
 
 ## About Me
