@@ -105,3 +105,5 @@ State your assumptions clearly and describe your analysis.
 ### (b) Choose a “beam” design (cross-section, material) 
 such that the vertical elastic deflection is below 2% of its length and is the most mass-efficient possible.
 ### (c) Present your final design in an image or drawing
+
+testing testing
