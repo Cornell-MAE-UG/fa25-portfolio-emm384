@@ -118,6 +118,7 @@ such that the vertical elastic deflection is below 2% of its length and is the m
 - Assume previously calculated dimensions as defined in the above section.
 - Choose the IP65 Mini Linear Actuator (standard feedback, 12 VDC, 1-in stroke) which applies a maximum force of 112 lbs or 498.4 N 
 - - Source: Progressive Automations 
+![Overall Design w/ LA]({{ "/assets/images/HW12-1.png" | relative_url }}){:style="width: 400px"}
 
 ---
 ## Approach
