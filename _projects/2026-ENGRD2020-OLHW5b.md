@@ -130,6 +130,12 @@ such that the vertical elastic deflection is below 2% of its length and is the m
 
 - Using vertical equilibrium analysis, solve for the vertical reaction at point A
 
+$$
+\sum M @ x : 0 = +M(x) - B_y(x - L_1) - A_y(x)
+$$
+$$
+M(x) = B_y x - B_y L_1 + A_y x
+$$
 
 - Construct free body diagram for slice of beam model to reveal internal loads & moment
 
