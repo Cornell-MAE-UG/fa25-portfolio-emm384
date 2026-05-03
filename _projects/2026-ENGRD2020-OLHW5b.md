@@ -132,7 +132,9 @@ such that the vertical elastic deflection is below 2% of its length and is the m
 
 
 - Construct free body diagram for slice of beam model to reveal internal loads & moment
+
 ![Overall Design w/ LA]({{ "/assets/images/HW12-3.png" | relative_url }}){:style="width: 400px"}
+
 - Equate internal moment function from previous step to the beam deflection equation:
 $$
 EIy'' = M(x)
@@ -144,6 +146,7 @@ $$
 ![Overall Design w/ LA]({{ "/assets/images/HW12-5.png" | relative_url }}){:style="width: 400px"}
 
 - Solve for y'(x) = 0 to determine a realistic point along the beam that experiences maxmium deflection
+![alt text](image-1.png)
 
 ### Part B
 
@@ -151,6 +154,9 @@ $$
 - Choose a material based on known mass effiency specifications
 - Choose geomtery and dimensions based on value of Young's Modulus from above material
 
+![Overall Design w/ LA]({{ "/assets/images/HW12-7.png" | relative_url }}){:style="width: 400px"}
+
 ### Part C
 - Construct overall diagram of nutcracker design
 
+![Overall Design w/ LA]({{ "/assets/images/HW12-8.png" | relative_url }}){:style="width: 400px"}
