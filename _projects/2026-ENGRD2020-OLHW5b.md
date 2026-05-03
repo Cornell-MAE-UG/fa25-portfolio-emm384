@@ -160,9 +160,9 @@ $$
 - Choose a material based on known mass effiency specifications
 - Choose geomtery and dimensions based on value of Young's Modulus from above material
 
-![Overall Design w/ LA]({{ "/assets/images/HW12-7.png" | relative_url }}){:style="width: 400px"}
+![Overall Design w/ LA]({{ "/assets/images/HW12-7.png" | relative_url }}){:style="width: 600px"}
 
 ### Part C
 - Construct overall diagram of nutcracker design
 
-![Overall Design w/ LA]({{ "/assets/images/HW12-8.png" | relative_url }}){:style="width: 400px"}
+![Overall Design w/ LA]({{ "/assets/images/HW12-8.png" | relative_url }}){:style="width: 600px"}
