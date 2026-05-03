@@ -122,6 +122,7 @@ such that the vertical elastic deflection is below 2% of its length and is the m
 
 ---
 ## Approach
+
 ### Part A
 
 - Construct free body diagram of the handle as simply supported beam model
@@ -140,6 +141,8 @@ $$
 ![Overall Design w/ LA]({{ "/assets/images/HW12-4.png" | relative_url }}){:style="width: 400px"}
 
 - Integrate the above equation twice and apply boundry condtions to derive the y(x) equation for deflection
+![Overall Design w/ LA]({{ "/assets/images/HW12-5.png" | relative_url }}){:style="width: 400px"}
+
 - Solve for y'(x) = 0 to determine a realistic point along the beam that experiences maxmium deflection
 
 ### Part B
