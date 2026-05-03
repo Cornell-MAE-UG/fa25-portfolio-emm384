@@ -1,6 +1,6 @@
 ---
 layout: project
-title: ENGRD 2020 - OLHW5b
+title: ENGRD 2020 - OLHW5b & HW12
 description: Static Mechanical Analysis - Macademia Nut Cracker 
 technologies: Gemini 
 image: /assets/images/OLHW5.png
