@@ -124,13 +124,21 @@ such that the vertical elastic deflection is below 2% of its length and is the m
 ## Approach
 ### Part A
 
-- Construct free body diagram of the handle as sinmpliy supported beam model
+- Construct free body diagram of the handle as simply supported beam model
+![Overall Design w/ LA]({{ "/assets/images/HW12-2.png" | relative_url }}){:style="width: 400px"}
+
 - Using vertical equilibrium analysis, solve for the vertical reaction at point A
+
+
 - Construct free body diagram for slice of beam model to reveal internal loads & moment
+![Overall Design w/ LA]({{ "/assets/images/HW12-3.png" | relative_url }}){:style="width: 400px"}
 - Equate internal moment function from previous step to the beam deflection equation:
 $$
 EIy'' = M(x)
 $$
+
+![Overall Design w/ LA]({{ "/assets/images/HW12-4.png" | relative_url }}){:style="width: 400px"}
+
 - Integrate the above equation twice and apply boundry condtions to derive the y(x) equation for deflection
 - Solve for y'(x) = 0 to determine a realistic point along the beam that experiences maxmium deflection
 
